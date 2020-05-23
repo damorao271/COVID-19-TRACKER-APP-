@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.19.2",
+    "react-chartjs-2": "^2.9.0",
+    "react-countup": "^4.3.3"
+  }
+}

@@ -1,2 +1,3 @@
-# COVID-19-TRACKER-APP-
-Corona Virus tracker app 
+# COVID-19 Tracker App
+
+This is my covid 19 tracker app created with React

@@ -1,5 +1,5 @@
 body {
-  background-color: cornflowerblue;
+  background-color: rgba(192, 192, 231, 0.575);
 }
 
 .container {
@@ -7,4 +7,19 @@ body {
   align-items: center;
   flex-flow: column;
   justify-content: center;
+}
+
+.image {
+  width: 30%;
+  margin-top: 15px;
+}
+
+@media (max-width: 770px) {
+  .container {
+    margin: 0 10%;
+  }
+
+  .image {
+    width: 100%;
+  }
 }
